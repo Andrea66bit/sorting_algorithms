@@ -1,2 +1,1 @@
-# sorting_algorithms
-task
+0x1B. C - Sorting algorithms & Big O
