@@ -1,6 +1,6 @@
 /*
  * File: 106-bitonic_sort.c
- * Auth: Andrea Ndzekeni
+ * Author: Andrea N
  */
 
 #include "sort.h"
