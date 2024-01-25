@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# A Bash script that configures a new Ubuntu machine
+# with NginX (this script will be run on the server itself)
+
+# Update package lists
+sudo apt-get -y update
+
+# Install nginx
+sudo apt-get -y install nginx
+sudo chown -R "$USER":"$USER" /var/www/html
+sudo echo "Hello World!" > /var/www/html/index.html
+
+# Restart nginx
+sudo service nginx restart
