@@ -1,3 +1,4 @@
+==work in progress
 DAY 1 FRONT END TASK
 JavaScript basics
 Previous
@@ -318,3 +319,5 @@ Want to get more involved? Learn how to contribute.
 This page was last modified on Feb 16, 2024 by MDN contributors.
  
 TO MANY MORE
+# alx-frontend-javascript
+# alx-frontend-javascript

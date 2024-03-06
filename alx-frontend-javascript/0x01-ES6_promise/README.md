@@ -1,4 +1,4 @@
-NEW INFO CODE
+NEW INFO CODE PROGRAMMED
 Promise
 The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
 
@@ -839,14 +839,3 @@ Using promises guide
 Promises/A+ specification
 JavaScript Promises: an introduction on web.dev (2013)
 Callbacks, Promises, and Coroutines: Asynchronous Programming Patterns in JavaScript slide show by Domenic Denicola (2011)
-Help improve MDN
-
-Was this page helpful to you?
-
-Yes
-
-No
-Learn how to contribute.
-This page was last modified on Nov 29, 2023 by MDN contributors.
-
-View this page on GitHub• Report a problem with this content
